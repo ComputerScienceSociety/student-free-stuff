@@ -15,6 +15,7 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
 * [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
 * [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. 
+* [enhost](https://enhost.io/students) - Get free three months hosting, and then 40% of thereafter.
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
